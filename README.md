@@ -10,6 +10,10 @@ https://unityroom.com/games/rayser_v3
 タイトル画面UI切り替えやステージ移動処理などで主に使用  
 - Very Animation  
 VRMキャラクターのアニメーションなどに使用  
+- Cinemachine
+トップビュー、サイドビュー、フロントビューのカメラの切り替えで使用しています。
+- Input System
+トップビュー、サイドビュー、フロントビューの自機の操作で使用しています。
   
 # 使用ソフト  
 - VRoid Studio  
