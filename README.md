@@ -5,7 +5,7 @@ https://unityroom.com/games/rayser_v3
   
 # 使用ライブラリ・アセット  
 - UniRx  
-ゲームステータス更新などで主に使用  
+ゲームステータス更新などで主に使用。UniRxのMessageBrokerを使用することで、ゲーム中のスコア獲得のイベント発行やパワーアップ処理などのトリガーとして使用しています。  
 - DOTween Pro  
 タイトル画面UI切り替えやステージ移動処理などで主に使用  
 - Very Animation  
